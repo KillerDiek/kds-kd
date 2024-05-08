@@ -1,0 +1,26 @@
+{
+  "id": "killerdieks-killer-dice",
+  "title": "KillerDiek's Killer Dice",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "requires": [
+      {
+        "id": "dice-so-nice",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "A package filled with custom dice presets and more for the Dice so Nice module by JDW",
+  "authors": [
+    {
+      "name": "KillerDiek",
+      "discord": "KillerDiek",
+      "flags": {}
+    }
+  ]
+}
