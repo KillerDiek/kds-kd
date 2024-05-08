@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\modules"
   ],
-  "SelectedNode": "\\C:\\Users\\adiek\\source\\repos\\FoundryFiles",
+  "SelectedNode": "\\modules\\presets.js",
   "PreviewInSolutionExplorer": false
 }
