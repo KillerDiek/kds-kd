@@ -28,5 +28,5 @@
   ],
   "url": "https://github.com/KillerDiek/kds-kd",
   "manifest": "https://github.com/KillerDiek/kds-kd/blob/main/module.json",
-  "download": "https://github.com/KillerDiek/kds-kd/blob/main/downloads/kds-kd-v0-1-0.zip"
+  "download": "https://github.com/KillerDiek/kds-kd/archive/refs/heads/main.zip"
 }
