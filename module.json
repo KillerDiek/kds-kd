@@ -23,6 +23,9 @@
       "flags": {}
     }
   ],
-	"url": "https://github.com/KillerDiek/kds-kd",
-	"manifest": "https://github.com/KillerDiek/kds-kd/main/module.json"
+  "esmodules": [
+	  "modules/presets.js"
+  ],
+  "url": "https://github.com/KillerDiek/kds-kd",
+  "manifest": "https://github.com/KillerDiek/kds-kd/blob/main/module.json"
 }
