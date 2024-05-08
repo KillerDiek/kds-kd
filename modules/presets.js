@@ -8,6 +8,6 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
             "Fuck\nYou!"
         ],
         system: "hfd",
-        fontSize: 0.85
+        fontScale: 0.85
     })
 });
