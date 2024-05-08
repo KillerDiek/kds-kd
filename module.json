@@ -22,5 +22,7 @@
       "discord": "KillerDiek",
       "flags": {}
     }
-  ]
+  ],
+	"url": "https://github.com/KillerDiek/kds-kd",
+	"manifest": "https://github.com/KillerDiek/kds-kd/main/module.json"
 }
