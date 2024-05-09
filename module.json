@@ -1,7 +1,7 @@
 {
   "id": "killerdieks-killer-dice",
   "title": "KillerDiek's Killer Dice",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -28,5 +28,5 @@
   ],
   "url": "https://github.com/KillerDiek/kds-kd",
   "manifest": "https://raw.githubusercontent.com/KillerDiek/kds-kd/main/module.json",
-  "download": "https://github.com/KillerDiek/kds-kd/releases/download/v0.1.2.5/kds-kd-v0.1.2.5.zip"
+  "download": "https://github.com/KillerDiek/kds-kd/releases/download/v0.1.3/kds-kd-v0.1.3.zip"
 }
