@@ -9,5 +9,15 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
         ],
         system: "hfd",
         fontScale: 0.85
+    });
+
+    dice3d.addSystem({id: "spd", name: "Emote Dice"}, "default");
+    dice3d.addDicePreset({
+        type: "d4",
+        labels: [
+            "Oh Dear", "Oh No", "Huh...", "Yay!"
+        ],
+        system: "spd",
+        fontScale: 0.85
     })
 });
