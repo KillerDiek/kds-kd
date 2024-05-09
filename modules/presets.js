@@ -15,9 +15,9 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
     dice3d.addDicePreset({
         type: "d4",
         labels: [
-            "Oh Dear", "Oh No", "Huh...", "Yay!"
+            "\nOh Dear", "\nOh No", "\nHuh...", "\nYay!"
         ],
         system: "spd",
-        fontScale: 0.65
+        fontScale: 0.55
     })
 });
