@@ -1,7 +1,7 @@
 {
   "id": "killerdieks-killer-dice",
   "title": "KillerDiek's Killer Dice",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -11,22 +11,22 @@
       {
         "id": "dice-so-nice",
         "type": "module",
-        "compatibility": {}
+	"compatibility": {}
       }
     ]
   },
   "description": "A package filled with custom dice presets and more for the Dice so Nice module by JDW",
   "authors": [
     {
-      "name": "KillerDiek",
-      "discord": "KillerDiek",
-      "flags": {}
+	"name": "KillerDiek",
+	"discord": "KillerDiek",
+	"flags": {}
     }
   ],
   "esmodules": [
-	  "modules/presets.js"
+	"modules/presets.js"
   ],
   "url": "https://github.com/KillerDiek/kds-kd",
   "manifest": "https://raw.githubusercontent.com/KillerDiek/kds-kd/main/module.json",
-  "download": "https://github.com/KillerDiek/kds-kd/releases/download/v0.1.3/kds-kd-v0.1.3.zip"
+  "download": "https://github.com/KillerDiek/kds-kd/releases/download/v0.1.4/kds-kd-v0.1.4.zip"
 }
