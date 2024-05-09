@@ -18,6 +18,6 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
             "Oh Dear", "Oh No", "Huh...", "Yay!"
         ],
         system: "spd",
-        fontScale: 0.85
+        fontScale: 0.65
     })
 });
